@@ -19,6 +19,6 @@ Welcome to the **Electric Vehicle Analysis Dashboard** project! 🌍🔌 This da
 - **💻 Power BI** for creating dynamic visualizations.
 - **🐍 Python** (Pandas, NumPy) for data analysis and cleaning.
 - **📊 Excel** for data preparation and handling.
-- 
+
 ### Insights & Impact  
 This dashboard not only highlights the current state of the electric vehicle market but also serves as a powerful tool for understanding the trends and patterns that can influence future strategies for manufacturers, policymakers, and consumers. 🌟 By analyzing data across various dimensions, stakeholders can make informed decisions that promote sustainable transportation solutions. ♻️
